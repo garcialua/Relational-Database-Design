@@ -29,4 +29,4 @@ Jay-Mart manages ~50 employees, multiple product departments (e.g., Electronics,
 ---
 
 ## 📄 Documentation
- [**View Full Project Report (PDF)**](./docs/CSCI362_DBMS_Project_Report.pdf)
+ [**View Full Project Report (PDF)**](./docs/Datamining-Project.pdf)
